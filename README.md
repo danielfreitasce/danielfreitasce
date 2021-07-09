@@ -18,9 +18,9 @@
   <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
 
- ### Usando os sistemas operacionais:
-
-  <img align="center" alt="iOS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-  <a href="https://manjaro.org" title="Manjaro Linux" target="_blank"><img align="center" alt="Manjaro" height="50em" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg"></a>
-
+ ### Usando os sistemas operacionais
+ <div style="display: inline_block"><br>
+  <img align="center" alt="iOs"     height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"> 
+  <img align="center" alt="Manjaro" height="50em" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg">
+</div>
 
