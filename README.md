@@ -9,7 +9,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfreitasce&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-  ## Estudando no projeto Hiring Coders
+  ## Estou estudando:
   <div style="display: inline_block"><br>
   <img align="center" alt="Vivi-Js" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vivi-HTML" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
@@ -18,7 +18,7 @@
   <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
 
- ### Usando os sistemas operacionais
+ ### usando os sistemas operacionais:
  <div style="display: inline_block"><br>
   <img align="center" alt="Manjaro" height="50em" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg">
   <img align="center" alt="iOs" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"> 
