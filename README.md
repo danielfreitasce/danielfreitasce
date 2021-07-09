@@ -20,7 +20,8 @@
 
  ### Usando os sistemas operacionais
  <div style="display: inline_block"><br>
+  <a href="https://manjaro.org"><img align="center" alt="Manjaro" height="50em" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg"></a>
   <img align="center" alt="iOs"     height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"> 
-  <img align="center" alt="Manjaro" height="50em" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg">
+  
 </div>
 
