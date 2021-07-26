@@ -1,5 +1,5 @@
-# Daniel Freitas
-## Estudandte Full Stack em formação 🚀
+# Oi eu sou o Daniel! 
+## Estudante 🚀
 
 <p align="center">
   <a href="https://github.com/danielfreitasce">
