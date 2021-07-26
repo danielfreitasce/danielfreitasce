@@ -1,13 +1,12 @@
 # Daniel Freitas
-## Full Stack em formação 🚀
+## Estudandte Full Stack em formação 🚀
 
- <div>
+<p align="center">
   <a href="https://github.com/danielfreitasce">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfreitasce&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>  
-<div>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfreitasce&layout=compact&langs_count=16&theme=radical"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfreitasce&show_icons=true&theme=default_repocard&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfreitasce&layout=compact&langs_count=16&theme=default"/>
+</p>
+
 
   ## Estou estudando:
   <div style="display: inline_block"><br>
@@ -18,9 +17,4 @@
   <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
 
- ### usando os sistemas operacionais:
- <div style="display: inline_block"><br>
-  <img align="center" alt="Manjaro" title="Manjaro Linux" height="50em" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg">
-  <img align="center" alt="iOs" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"> 
-</div>
 
