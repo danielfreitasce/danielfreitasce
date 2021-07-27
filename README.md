@@ -1,5 +1,5 @@
 # Oi eu sou o Daniel! 
-## Estudante 🚀
+## Estudante <img height="40em" src="img/to-up.gif" >
 
 <p align="center">
   <a href="https://github.com/danielfreitasce">
