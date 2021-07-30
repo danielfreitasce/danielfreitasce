@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<a href="https://github.com/danielfreitasce"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"></a>
 
 <p align="left"> 
   
@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> VSCode, Notion, GitHub.</strong>
+  💼 Ferramentas: <strong> VSCode, Notion, GitHub, Manjaro Linux.</strong>
 </p> 
 <br>
 <br>
