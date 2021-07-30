@@ -2,7 +2,7 @@
 
 <p align="left"> 
   
-  <img height="30em" src="img/foguete-decolando.gif" > Olá! Meu nome é Daniel Freitas e sou estudante <strong>Front-End</strong>.<br>
+  <a href="https://images.app.goo.gl/ShpjqAMjpxvQUWSg9"><img height="30em" src="img/foguete-decolando.gif" ></a> Olá! Meu nome é Daniel Freitas e sou estudante <strong>Front-End</strong>.<br>
   Estou cursando o 3º semestre de Ciências da Computação no IFCE, trabalho atualmente em outra área porém estudo tecnologias de desenvolvimento de sites nas horas vagas.
 </p>
 
