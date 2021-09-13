@@ -8,7 +8,7 @@
 
 <p align="left">
   🚧 Aprendendo: <strong>HTML, CSS, JavaScript.<br></strong>
-  🚀 Próximo nível: <strong>Sass, Bootstrap, ReactJS, Next.js.</strong>
+  🚀 Próximo nível: <strong>ReactJS, Next.js.</strong>
 </p>
 
 <p align="left">
