@@ -7,8 +7,8 @@
 </p>
 
 <p align="left">
-  🚧 Aprendendo: <strong>HTML, CSS, JavaScript.<br></strong>
-  🚀 Próximo nível: <strong>ReactJS, Next.js.</strong>
+  🚧 Aprendendo: <strong>HTML, CSS, JavaScript, Aura e Apex.<br></strong>
+  🚀 Próximo nível: <strong>ReactJS, Node.js, Next.js.</strong>
 </p>
 
 <p align="left">
