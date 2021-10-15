@@ -2,7 +2,7 @@
 
 <p align="left"> 
   
-  <a href="https://images.app.goo.gl/ShpjqAMjpxvQUWSg9" target="_blank"><img height="30em" src="img/foguete-decolando.gif" ></a> Olá! Meu nome é Daniel Freitas e sou estudante <strong>Front-End</strong>.<br>
+  <a href="https://images.app.goo.gl/ShpjqAMjpxvQUWSg9" target="_blank"><img height="30em" src="img/foguete-decolando.gif" ></a> Olá! Meu nome é Daniel Freitas.
   Estou cursando o 3º semestre de Ciências da Computação no IFCE, atualmente sou estagiário desenvolvedor Salesforce e estudo outras tecnologias de desenvolvimento web nas horas vagas.
 </p>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> VSCode, Notion, GitHub, Manjaro Linux.</strong>
+  💼 Ferramentas: <strong> VSCode, Notion, GitHub</strong>
 </p> 
 <br>
 <br>
