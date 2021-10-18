@@ -7,11 +7,6 @@
 </p>
 
 <p align="left">
-  🚧 Aprendendo: <strong>HTML, CSS, JavaScript, Aura e Apex.<br></strong>
-  🚀 Próximo nível: <strong>ReactJS, Node.js, Next.js.</strong>
-</p>
-
-<p align="left">
   💼 Ferramentas: <strong> VSCode, Notion, GitHub</strong>
 </p> 
 <br>
