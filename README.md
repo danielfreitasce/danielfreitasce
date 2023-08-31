@@ -3,7 +3,7 @@
 <p align="left"> 
   
   <a href="https://images.app.goo.gl/ShpjqAMjpxvQUWSg9" target="_blank"><img height="30em" src="img/foguete-decolando.gif" ></a> Olá! Meu nome é Daniel Freitas.
-  Estou cursando análise e desenvolvimento de sistemas e atualmente sou desenvolvedor Salesforce. 
+  Estou cursando bacharelado em Ciências da Computação e atualmente sou desenvolvedor Salesforce. 
 </p>
 
 <p align="left">
